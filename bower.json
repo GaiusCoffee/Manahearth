@@ -1,0 +1,21 @@
+{
+  "name": "Manahearth",
+  "version": "0.0.0",
+  "homepage": "https://github.com/GaiusCoffee/Manahearth",
+  "authors": [
+    "Gaius-Coffee <gaius.coffee@gmail.com>"
+  ],
+  "description": "Website for a Custom Variant of Magic: the Gathering",
+  "main": "index.html",
+  "license": "No License",
+  "private": true,
+  "dependencies" : {
+    "jquery" : "latest"
+  },
+  "install" : {
+    "path" : "assets",
+    "sources" : {
+      "jquery" : "bower_components/jquery/dist/jquery.min.js"
+    }
+  }
+}
