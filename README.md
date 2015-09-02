@@ -2,6 +2,7 @@
 **A Casual Variant for Magic: the Gathering (Based loosely on Hearthstone)**
 
 Rules
+
 1. In the Manahearth Variant, an alternate mana source is used instead of lands. The Manahearth Variant uses all of the normal rules for a Magic game, with the following additions.
 2. A Manahearth game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See the Comprehensive Rules: rule 806, “Free-for-All Variant.”
 3. Each Manahearth Deck is subject to the following deck construction rules.
