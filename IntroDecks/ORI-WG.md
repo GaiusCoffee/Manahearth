@@ -1,4 +1,5 @@
 | Brave The Battle | Gideon Jura |
+|---|---|
 | Magic Origin Intro Pack | Manahearth Intro Deck |
 | | |
 | Creature (22) | Creature (21) |
