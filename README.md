@@ -16,7 +16,7 @@ Rules
 6. At the start of the game, each player puts one Planeswalker card from his or her deck face up into their "Hero Zone". Then each player shuffles the remaining 30 cards of his or her deck so that the cards are in a random order. Those cards become the player’s library.
 7. Once the starting player has been determined, each player sets his or her life total to 20 and draws a hand of three cards.
 8. Players can take up to one Mulligan in a Manahearth game. If a player takes a Mulligan, then that player may shuffle one, two or all three starting cards back into their library, then draws until they have three starting cards.
-9. Players *not* going first are given a “Lotus” Instant Card with the casting cost of zero and the text: “Add one mana of any color to your mana pool then exile this card.”
+9. Players *not* going first are given a Colorless “[Lotus Vial]()” Instant Card with the casting cost of zero and the text: “Add one mana of any color to your mana pool, then exile this card.”
 10. Players going first draws a card during their first draw step.
 11. The “Manahearth Rule”: Anytime a player can play a land card from their hand, they may instead play a land card from the Manahearth Zone.
   1. When a land from the Manahearth is put anywhere from the Battlefield, it is returned to the Manahearth Zone instead.
