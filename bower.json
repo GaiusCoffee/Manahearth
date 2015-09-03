@@ -9,13 +9,35 @@
   "main": "index.html",
   "license": "No License",
   "private": true,
-  "dependencies" : {
-    "jquery" : "latest"
+  "dependencies": {
+    "jquery": "latest",
+    "font-awesome": "latest",
+    "jquery.dropotron": "n33/jquery.dropotron#latest",
+    "skel": "n33/skel#latest"
   },
-  "install" : {
-    "path" : "assets",
-    "sources" : {
-      "jquery" : "bower_components/jquery/dist/jquery.min.js"
+  "install": {
+    "base": "assets",
+    "path": {
+      "js": "{name}/js",
+      "css": "{name}/css",
+      "eot": "{name}/fonts",
+      "svg": "{name}/fonts",
+      "ttf": "{name}/fonts",
+      "woff": "{name}/fonts",
+      "woff2": "{name}/fonts"
+    },
+    "sources": {
+      "jquery": "bower_components/jquery/dist/jquery.min.js",
+      "font-awesome": [
+        "bower_components/font-awesome/css/font-awesome.min.css",
+        "bower_components/font-awesome/fonts/fontawesome-webfont.eot",
+        "bower_components/font-awesome/fonts/fontawesome-webfont.svg",
+        "bower_components/font-awesome/fonts/fontawesome-webfont.ttf",
+        "bower_components/font-awesome/fonts/fontawesome-webfont.woff",
+        "bower_components/font-awesome/fonts/fontawesome-webfont.woff2"
+      ],
+      "jquery.dropotron": "bower_components/jquery.dropotron/jquery.dropotron.min.js",
+      "skel": "bower_components/skel/dist/skel.min.js"
     }
   }
 }
