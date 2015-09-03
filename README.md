@@ -29,7 +29,7 @@ Rules
     1. The planeswalker in the Hero Zone is not destroyed by the state based effect that checks for zero loyalty counters (Comprehensive Rules 306.9).
   4. The “Hero Ability” Rule: Any time an ability from the planeswalker can be played, the player may pay 2 mana of any color and lose life equal to the loyalty cost of the ability as cost in order to activate the ability.
     1. The player always loses life when using the Hero Ability of their planeswalker, even if the loyalty cost is positive.
-  5. The “Ultimate Ability” Rule: The planeswalker’s last ability can only be used once per game by paying the planeswalker’s casting cost plus 2 mana of any color and losing life equal to the loyalty cost of the ability as cost in order to activate the ability.
+  5. The “Ultimate Ability” Rule: The planeswalker’s ability with the highest negative value can only be used once per game by paying the planeswalker’s casting cost plus 2 mana of any color and losing life equal to the loyalty cost of the ability as cost in order to activate the ability.
     1. The player always loses life when using the Ultimate Ability of their planeswalker, even if the loyalty cost is positive.
     2. When the player has already used an Ultimate Ability during a game, they can no longer use Ultimate Abilities even if the planeswalker card in the Hero Zone is replaced.
 14. The “Mill 30” Rule: If a player is required to draw more cards than are left in his or her library, he or she draws the remaining cards, shuffles his graveyard into his library, and continues to draw cards.
