@@ -9,13 +9,13 @@ Rules
   1. A Manahearth Deck must contain at least 1 Planeswalker Card and 30 other cards.
     1. Unlike a normal game of Magic, the number of cards in the deck cannot exceed 31 cards.
   2. Only up to two copies of cards with the same English name are allowed in a Manahearth deck.
-  3. Only up to one copy of cards with the Legendary supertype are allowed in a Manahearth deck.
+  3. Only up to one copy of cards with the Legendary supertype and the same English name are allowed in a Manahearth deck.
   4. Manahearth games may be further modified by formats that limit the cards that are allowed (eg. Standard Manahearth, Modern Manahearth, etc).
 4. In addition to normal game materials, up to ten copies of the five basic land cards (Plains, Island, Swamp, Mountain and Forest) are placed on the “Manahearth Zone”.
 5. Each player’s maximum hand size is 10.
 6. At the start of the game, each player puts one Planeswalker card from his or her deck face up into their "Hero Zone". Then each player shuffles the remaining 30 cards of his or her deck so that the cards are in a random order. Those cards become the player’s library.
 7. Once the starting player has been determined, each player sets his or her life total to 20 and draws a hand of three cards.
-8. If a player takes a Mulligan in a Manahearth game, then that player may shuffle one, two or all three starting cards back into their library, then draw until they have three starting cards.
+8. Players can take up to one Mulligan in a Manahearth game. If a player takes a Mulligan, then that player may shuffle one, two or all three starting cards back into their library, then draws until they have three starting cards.
 9. Players *not* going first are given a “Lotus” Instant Card with the casting cost of zero and the text: “Add one mana of any color to your mana pool then exile this card.”
 10. Players going first draws a card during their first draw step.
 11. The “Manahearth Rule”: Anytime a player can play a land card from their hand, they may instead play a land card from the Manahearth Zone.
