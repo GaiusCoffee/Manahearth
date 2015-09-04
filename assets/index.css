@@ -2096,11 +2096,16 @@ header .icon.circled {
 
 #header {
   position: relative;
-  background-image: url("../images/header.jpg");
+  background-image: url("../images/Logo.Full.png");
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
   color: #fff;
+  text-shadow:
+    -1px -1px 0 #999,
+    1px -1px 0 #999,
+    -1px 1px 0 #999,
+    1px 1px 0 #999;  
   text-align: center;
   padding: 7.5em 0 2em 0;
   cursor: default;
