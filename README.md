@@ -1,5 +1,5 @@
 ## Manahearth
-**A Casual Variant for Magic: the Gathering**
+**A Casual Variant for Magic: the Gathering**    
 http://manahearth.com
 
 ### Comprehensive Rules
@@ -14,5 +14,5 @@ https://gist.github.com/GaiusCoffee/a4c438c3a50f7eb76921
 https://github.com/gaiusandhartsolutions/Manahearth/issues
 
 ### License
-Magic: the Gathering &copy; Wizards of the Coast
+Magic: the Gathering &copy; Wizards of the Coast    
 Everything else &copy; [Gaius and Hart Solutions](http://gaiusandhartsolutions.github.io)
