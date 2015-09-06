@@ -2102,10 +2102,10 @@ header .icon.circled {
   background-attachment: fixed;
   color: #fff;
   text-shadow:
-    -1px -1px 0 #999,
-    1px -1px 0 #999,
-    -1px 1px 0 #999,
-    1px 1px 0 #999;  
+    -1px -1px 0 #555,
+    1px -1px 0 #555,
+    -1px 1px 0 #555,
+    1px 1px 0 #555;  
   text-align: center;
   padding: 7.5em 0 2em 0;
   cursor: default;
