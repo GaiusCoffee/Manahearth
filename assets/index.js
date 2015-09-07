@@ -35,6 +35,13 @@
 
     $window.on('load', function() {
       $body.removeClass('is-loading');
+      
+      // Get a quote
+      WikiquoteApi.getRandomQuote("Game", function(d){ 
+        var quote = d.quote.split('~');
+        $("#quoteText").text(quote[0]);
+        $("#quoteAttr").text(quote[1]); 
+      });
     });
 
     // CSS polyfills (IE<9).

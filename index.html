@@ -46,7 +46,7 @@
         <nav id="nav">
           <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="#main">Comprehensive Rules</a></li>
+            <li><a href="#comprules" class="scrolly">Comprehensive Rules</a></li>
             <li>
               <a href="#">Card Notes &amp; Intro Decks</a>
               <ul>
@@ -60,7 +60,7 @@
                   </ul>
                 </li>
               </ul>
-            <li><strike>Try it online!</strike></li>
+            <li><a href="./online.html"><strike>Try it online!</strike></a></li>
           </ul>
         </nav>
 
@@ -204,7 +204,7 @@
         <article id="main" class="container special">
           <a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
           <header>
-            <h2><a href="#">Comprehensive Rules</a></h2>
+            <h2 id="comprules"><a href="#">Comprehensive Rules</a></h2>
             <p>
               Of course, judges and competative players need more than just a quick start. Detailed below are the 
               full Manahearth rules if it was part of Magic: the Gathering's Comprehensive Rules. Note that you 
@@ -231,9 +231,9 @@
               <!-- Contact -->
               <section class="contact">
                 <header>
-                  <h3>Nisl turpis nascetur interdum?</h3>
+                  <h3 id="quoteText"></h3>
                 </header>
-                <p>Urna nisl non quis interdum mus ornare ridiculus egestas ridiculus lobortis vivamus tempor aliquet.</p>
+                <p id="quoteAttr"></p>
                 
                 <hr />
                 
@@ -269,6 +269,7 @@
     <script src="./assets/jquery.scrolly.min.js"></script>
     <script src="./assets/jquery.onvisible.min.js"></script>
     <script src="./assets/skel/js/skel.min.js"></script>
+    <script src="./assets/wikiquotes-api.js"></script>
     <script src="./assets/util.js"></script>
     <script src="./assets/index.js"></script>
   </body>
