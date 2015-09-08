@@ -128,7 +128,7 @@ var WikiquoteApi = (function() {
           if ($(this).find('ul:first')) {
             attr = $(this).find('ul:first').text();
           }
-          $(this).children().remove(':not(a)');          
+          $(this).children().remove('ul');          
           quoteArray.push($(this).text() + " ~" + attr);
         });
         success({ titles: result.parse.title, quotes: quoteArray });
